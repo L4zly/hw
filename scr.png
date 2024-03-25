@@ -1,1 +1,4 @@
-
+ls
+# my-photo.png
+git add my-photo.png
+git commit -m 'add my awesome photo'
