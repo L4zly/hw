@@ -50,7 +50,7 @@ Apache HTTP Server является одним из старейших и наи
 - **Ограниченная поддержка сторонних платформ: В отличие от Nginx и Apache, IIS не так широко поддерживает сторонние платформы и решения.
 Меньшее распространение в сравнении с альтернативами: IIS чаще используется в средах Windows и может быть менее распространен в сравнении с Nginx и Apache в других окружениях.
 
-![Image alt](https://github.com//L4zly/hw/blob/main/доля%20рынка.png)
+![Image alt](https://github.com/L4zly/hw/blob/main/доля%20рынка.png)
 
 
 ![Image alt](https://github.com/L4zly/hw/blob/main/1.png)
